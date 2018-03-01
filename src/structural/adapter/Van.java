@@ -1,4 +1,4 @@
-package structural.proxy.adapter;
+package structural.adapter;
 
 /**
  * 

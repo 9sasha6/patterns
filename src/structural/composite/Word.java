@@ -1,4 +1,4 @@
-package structural.proxy.composite;
+package structural.composite;
 
 import java.util.List;
 

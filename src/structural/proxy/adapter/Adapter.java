@@ -1,4 +1,4 @@
-package structural.adapter;
+package structural.proxy.adapter;
 
 /**
  * Lets imagine that our driver Alex can drive only a van, but during the trip the van broke down

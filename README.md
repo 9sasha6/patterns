@@ -4,25 +4,25 @@ Here is my ToDo list:
 
 **Creational Design Patterns**
 
-- [ ]  Singleton Pattern
- - [ ] Factory method Pattern
-- [ ]  Abstract Factory Pattern
- - [ ] Builder Pattern
- - [ ] Prototype Pattern
+- [x] Singleton Pattern
+- [x] Factory method Pattern
+- [x] Abstract Factory Pattern
+- [x] Builder Pattern
+- [x] Prototype Pattern
  
 **Structural Design Patterns**
 
- - [ ] Adapter Pattern
- - [ ] Composite Pattern
- - [ ] Proxy Pattern
- - [ ] Flyweight Pattern
+ - [x] Adapter Pattern
+ - [x] Composite Pattern
+ - [x] Proxy Pattern
+ - [x] Flyweight Pattern
  - [ ] Facade Pattern
  - [ ] Bridge Pattern
  - [ ] Decorator Pattern
  
 **Behavioral Design Patterns**
 
-- [ ]  Template Method Pattern
+ - [ ] Template Method Pattern
  - [ ] Mediator Pattern
  - [ ] Chain of Responsibility Pattern
  - [ ] Observer Pattern

@@ -8,7 +8,7 @@ import java.util.List;
  *
  */
 
-public class Sentence extends LetterComposite {
+ class Sentence extends LetterComposite {
 
 	public Sentence(List<Word> words) {
 		for (Word w : words) {

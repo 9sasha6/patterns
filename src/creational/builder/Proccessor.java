@@ -6,7 +6,7 @@ package creational.builder;
  *
  */
 
-public enum Proccessor {
+ enum Proccessor {
 
 	INTEL, AMD;
 }

@@ -8,7 +8,7 @@ import java.util.List;
  *
  */
 
-public class Prototype {
+ class Prototype {
 
 	public static void main(String[] args) throws CloneNotSupportedException {
 		CarShop carShop = new CarShop();

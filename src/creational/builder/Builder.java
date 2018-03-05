@@ -6,7 +6,7 @@ package creational.builder;
  *
  */
 
-public class Builder {
+ class Builder {
 
 	public static void main(String[] args) {
 

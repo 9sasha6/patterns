@@ -6,7 +6,7 @@ package structural.adapter;
  *
  */
 
-public class Driver implements Van {
+ class Driver implements Van {
 
 	private Van van;
 

@@ -6,7 +6,7 @@ package structural.adapter;
  *
  */
 
-public class Bicycle {
+ class Bicycle {
 
 	public void ride() {
 		System.out.println("riding a bike");

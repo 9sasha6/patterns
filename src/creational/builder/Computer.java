@@ -6,7 +6,7 @@ package creational.builder;
  *
  */
 
-public class Computer {
+ class Computer {
 
 	private final Memory memory;
 	private final Proccessor proc;

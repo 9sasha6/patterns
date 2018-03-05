@@ -8,7 +8,7 @@ package creational.singelton;
  * @author alex
  * 
  */
-public class EagerInit {
+ class EagerInit {
 
 	private static final EagerInit eagerInitInstance = new EagerInit();
 

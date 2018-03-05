@@ -6,7 +6,7 @@ package creational.builder;
  *
  */
 
-public enum Memory {
+ enum Memory {
 
 	SSD, HDD;
 }

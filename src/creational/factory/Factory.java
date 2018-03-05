@@ -5,7 +5,7 @@ package creational.factory;
  * @author alex
  *
  */
-public class Factory {
+ class Factory {
 
 
 	public static void main(String[] args) {

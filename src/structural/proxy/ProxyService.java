@@ -6,7 +6,7 @@ package structural.proxy;
  *
  */
 
-public class ProxyService implements ServiceDB {
+ class ProxyService implements ServiceDB {
 
 	private ServiceDB service;
 	private final int OPERATIONS_AMOUNT = 3;

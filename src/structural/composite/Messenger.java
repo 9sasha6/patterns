@@ -10,7 +10,7 @@ import java.util.List;
  *
  */
 
-public class Messenger {
+ class Messenger {
 	LetterComposite messageFromOrcs() {
 
 		List<Word> words = new ArrayList();

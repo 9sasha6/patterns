@@ -9,7 +9,7 @@ import java.util.List;
  *
  */
 
-public abstract class LetterComposite {
+ abstract class LetterComposite {
 
 	private List<LetterComposite> children = new ArrayList();
 

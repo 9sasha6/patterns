@@ -6,7 +6,7 @@ package structural.adapter;
  *
  */
 
-public interface Van {
+ interface Van {
 
 	public void drive();
 

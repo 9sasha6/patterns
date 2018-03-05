@@ -4,7 +4,7 @@ package creational.factory;
  * @author alex
  *
  */
-public class CarFacatory {
+ class CarFacatory {
 
 	public static Car getCar(String type, String label, String transmision, String enginePower) {
 

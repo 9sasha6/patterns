@@ -6,6 +6,6 @@ package creational.builder;
  *
  */
 
-public enum Drive {
+ enum Drive {
 	CD, DVD;
 }

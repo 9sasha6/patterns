@@ -9,7 +9,7 @@ import java.util.List;
  *
  */
 
-public class CarShop implements Cloneable {
+ class CarShop implements Cloneable {
 
 	private List<String> carList;
 

@@ -6,7 +6,7 @@ package creational.abstractFactory;
  *
  */
 
-public interface CarAbstractFactory {
+ interface CarAbstractFactory {
 
 	public Car createCar();
 }

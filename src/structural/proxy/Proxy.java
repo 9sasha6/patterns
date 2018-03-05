@@ -6,7 +6,7 @@ package structural.proxy;
  *
  */
 
-public class Proxy {
+ class Proxy {
 
 	public static void main(String[] args) {
 		ProxyService service = new ProxyService(new Service());

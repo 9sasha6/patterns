@@ -6,7 +6,7 @@ package creational.abstractFactory;
  *
  */
 
-public class FordFactory implements CarAbstractFactory {
+ class FordFactory implements CarAbstractFactory {
 
 	private String label;
 	private String transmision;

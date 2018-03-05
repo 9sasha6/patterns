@@ -6,7 +6,7 @@ package structural.composite;
  *
  */
 
-public class Letter extends LetterComposite {
+ class Letter extends LetterComposite {
 
 	private char c;
 

@@ -6,7 +6,7 @@ package creational.abstractFactory;
  *
  */
 
-public class Honda extends Car {
+ class Honda extends Car {
 
 	private String label;
 	private String transmision;

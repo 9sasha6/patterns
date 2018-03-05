@@ -4,7 +4,7 @@ package creational.factory;
  * @author alex
  *
  */
-public abstract class Car {
+ abstract class Car {
 
 	public abstract String getLabel();
 

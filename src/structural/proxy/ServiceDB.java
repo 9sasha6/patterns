@@ -6,7 +6,7 @@ package structural.proxy;
  *
  */
 
-public interface ServiceDB {
+interface ServiceDB {
 
 	void save();
 

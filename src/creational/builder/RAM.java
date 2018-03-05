@@ -6,7 +6,7 @@ package creational.builder;
  *
  */
 
-public enum RAM {
+ enum RAM {
 
 	KINGSTON, SAMSUNG;
 }

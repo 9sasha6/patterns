@@ -10,7 +10,7 @@ package structural.adapter;
  *
  */
 
-public class Adapter {
+ class Adapter {
 
 	public static void main(String... args) {
 		Driver Alex = new Driver(new BicycleAdapter());

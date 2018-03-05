@@ -7,7 +7,7 @@ package creational.singelton;
  *
  */
 
-public class LazyInit {
+ class LazyInit {
 
 	private static LazyInit instance;
 

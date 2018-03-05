@@ -8,7 +8,7 @@ import java.util.List;
  *
  */
 
-public class Word extends LetterComposite {
+ class Word extends LetterComposite {
 
 	public Word(List<Letter> letters) {
 		for (Letter l : letters) {

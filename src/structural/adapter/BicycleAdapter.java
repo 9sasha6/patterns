@@ -6,7 +6,7 @@ package structural.adapter;
  *
  */
 
-public class BicycleAdapter implements Van {
+ class BicycleAdapter implements Van {
 
 	private Bicycle bicycle;
 

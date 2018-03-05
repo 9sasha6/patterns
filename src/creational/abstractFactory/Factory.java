@@ -6,7 +6,7 @@ package creational.abstractFactory;
  *
  */
 
-public class Factory {
+ class Factory {
 
 	public static void main(String[] args) {
 

@@ -6,7 +6,7 @@ package creational.abstractFactory;
  *
  */
 
-public class CarFacatory {
+ class CarFacatory {
 
 	public static Car getCar(CarAbstractFactory carFactory) {
 		return carFactory.createCar();

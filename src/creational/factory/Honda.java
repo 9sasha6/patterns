@@ -4,7 +4,7 @@ package creational.factory;
  * @author alex
  *
  */
-public class Honda extends Car {
+ class Honda extends Car {
 
 	private String label;
 	private String transmision;

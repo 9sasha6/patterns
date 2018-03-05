@@ -1,6 +1,6 @@
 package creational.singelton;
 
-public class Singleton {
+class Singleton {
 
 	public static void main(String[] args) {
 		EagerInit instanceOne = EagerInit.getInstance();

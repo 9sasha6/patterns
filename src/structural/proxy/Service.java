@@ -6,7 +6,7 @@ package structural.proxy;
  *
  */
 
-public class Service implements ServiceDB {
+ class Service implements ServiceDB {
 
 	@Override
 	public void save() {

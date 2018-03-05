@@ -9,7 +9,7 @@ package structural.composite;
  *
  */
 
-public class Composite {
+ class Composite {
 	public static void main(String[] args) {
 
 		LetterComposite orcMessage = new Messenger().messageFromOrcs();

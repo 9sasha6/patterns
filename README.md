@@ -17,7 +17,7 @@ Here is my ToDo list:
  - [x] Proxy Pattern
  - [x] Flyweight Pattern
  - [x] Facade Pattern
- - [ ] Bridge Pattern
+ - [x] Bridge Pattern
  - [x] Decorator Pattern
  
 **Behavioral Design Patterns**
